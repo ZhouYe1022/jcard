@@ -12,7 +12,7 @@
       </div>
       <div class="app-footer">
         <p class="main">jCard By ZhouYe, 2017</p>
-        <p>累计帮助找回 {{count.FoundResolvedCount + count.LostResolvedCount}} 张卡，当前 {{count.FoundPendingCount + count.LostPendingCount}} 张待找回</p>
+        <p>累计帮助找回 4 张卡，当前 0 张待找回</p>
       </div>
     </div>
   </div>

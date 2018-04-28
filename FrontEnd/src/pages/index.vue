@@ -2,7 +2,7 @@
   <div class="index-page">
     <router-link class="btn btn-white btn-exlg" to="lost">找回我的卡</router-link>
     <router-link class="btn btn-white btn-exlg" to="found">捡到一张卡</router-link>
-    <router-link class="btn btn-white btn-exlg"to="advice">我有一个建议...</router-link>
+    <router-link class="btn btn-white btn-exlg" to="advice">我有一个建议...</router-link>
   </div>
 </template>
 <style lang="scss">
